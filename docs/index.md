@@ -7,7 +7,7 @@ Feel free to use this templates in your journey through study, work or personal 
 
 This tracker allows you to keep your main tasks in mind, but acknowledges that often this tasks require subtasks that may emerge as you do the work. Allows to track also the pomodoros (time session blocks) used to resolve it.
 
-[Download here](url)
+[Download here](https://github.com/sacortesh/printable-templates/raw/main/session-planner.pdf)
 
 
 ### Contact
