@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Printable Templates
 
-You can use the [editor on GitHub](https://github.com/sacortesh/printable-templates/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Feel free to use this templates in your journey through study, work or personal life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Pomodoro Planner / Tracker
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This tracker allows you to keep your main tasks in mind, but acknowledges that often this tasks require subtasks that may emerge as you do the work. Allows to track also the pomodoros (time session blocks) used to resolve it.
 
-```markdown
-Syntax highlighted code block
+[Download here](url)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sacortesh/printable-templates/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Want to suggest new pages, improve existing ones, or simply say thanks? Please contact me at sacortesh@gmail.com
